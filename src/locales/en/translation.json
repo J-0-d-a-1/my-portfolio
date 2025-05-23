@@ -5,5 +5,11 @@
     "about": "About",
     "contact": "Contact",
     "language": "日本語"
+  },
+  "hero": {
+    "greeting": "Hi, I'm Jumpei",
+    "role": "A Full-Stack Web Developer",
+    "viewProjects": "View Projects",
+    "contactMe": "Contact Me"
   }
 }

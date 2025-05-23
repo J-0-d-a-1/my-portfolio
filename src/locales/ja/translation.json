@@ -5,5 +5,11 @@
     "about": "私について",
     "contact": "お問い合わせ",
     "language": "English"
+  },
+  "hero": {
+    "greeting": "Jumpei",
+    "role": "フルスタックウェブエンジニア",
+    "viewProjects": "プロジェクトを見る",
+    "contactMe": "お問い合わせ"
   }
 }
