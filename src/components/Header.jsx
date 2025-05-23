@@ -1,4 +1,5 @@
 import { useTranslation } from "react-i18next";
+import LanguageToggle from "./LanguageToggle";
 
 function Header() {
   const { t } = useTranslation();
@@ -47,7 +48,7 @@ function Header() {
               </a>
             </li>
             <li>
-              <button>{t("nav.language")}</button>
+              <LanguageToggle>{t("nav.language")}</LanguageToggle>
             </li>
           </ul>
         </div>
