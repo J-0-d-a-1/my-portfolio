@@ -4,12 +4,14 @@ import Hero from "./sections/Hero";
 
 import "./i18n";
 import "./App.css";
+import About from "./sections/About";
 
 function App() {
   return (
     <>
       <Header />
       <Hero />
+      <About />
     </>
   );
 }

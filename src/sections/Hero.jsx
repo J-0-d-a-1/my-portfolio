@@ -4,7 +4,6 @@ function Hero() {
   const { t } = useTranslation();
 
   return (
-    // <div className="text-center mt-50">
     <div className="mx-auto max-w-2xl sm:py-48 lg:py-48 text-center mt-10">
       <h1 className="text-5xl font-semibold tracking-tight text-balance text-gray-900 sm:text-7xl">
         {t("hero.greeting")}
