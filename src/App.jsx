@@ -5,6 +5,7 @@ import Hero from "./sections/Hero";
 import "./i18n";
 import "./App.css";
 import About from "./sections/About";
+import Contact from "./sections/Contact";
 
 function App() {
   return (
@@ -12,6 +13,7 @@ function App() {
       <Header />
       <Hero />
       <About />
+      <Contact />
     </>
   );
 }

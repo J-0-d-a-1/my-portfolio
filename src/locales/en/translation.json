@@ -17,5 +17,9 @@
     "subtitle": "Hi, I'm Jumpei, a full-stack web developer with a background in international business and over 7 years of experience in the restaurant industry across Japan and Canada.",
     "buttonTitle": "Download Resume",
     "description": "I enjoy building responsive, user-friendly applications with technologies like JavaScript, React, jQuery, Express, Ruby on Rails, PostgreSQL, and SCSS. My experience in diverse, fast-paced environments helps me collaborate well and build with empathy. I'm especially drawn to projects that bridge cultures and improve everyday experiences. Outside of coding, I enjoy camping🏕️ relaxing at the beach🏖️, working out🏋️‍♂️, and baseball⚾️."
+  },
+  "contact": {
+    "title": "Contact",
+    "description": "Let's connect! Feel free to reach out."
   }
 }
