@@ -12,6 +12,10 @@
     "viewProjects": "View Projects",
     "contactMe": "Contact Me"
   },
+  "projects": {
+    "title": "Projects",
+    "description": "Here are some of the projects I've worked on."
+  },
   "about": {
     "title": "About Me",
     "subtitle": "Hi, I'm Jumpei, a full-stack web developer with a background in international business and over 7 years of experience in the restaurant industry across Japan and Canada.",
