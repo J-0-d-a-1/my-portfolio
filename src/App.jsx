@@ -14,13 +14,13 @@ function App() {
     <>
       <Header />
       <Hero />
-      <hr class="my-6 border-gray-200 sm:mx-auto lg:my-8" />
+      <hr className="my-6 border-gray-200 sm:mx-auto lg:my-8" />
       <Projects />
-      <hr class="my-6 border-gray-200 sm:mx-auto lg:my-8" />
+      <hr className="my-6 border-gray-200 sm:mx-auto lg:my-8" />
       <About />
-      <hr class="my-6 border-gray-200 sm:mx-auto lg:my-8" />
+      <hr className="my-6 border-gray-200 sm:mx-auto lg:my-8" />
       <Contact />
-      <hr class="my-6 border-gray-200 sm:mx-auto lg:my-8" />
+      <hr className="my-6 border-gray-200 sm:mx-auto lg:my-8" />
       <Footer />
     </>
   );
