@@ -12,15 +12,32 @@
     "viewProjects": "View Projects",
     "contactMe": "Contact Me"
   },
+  "about": {
+    "title": "About Me",
+    "intro": "Hi, I'm Jumpei, a full-stack web developer with a background in international business and over 7 years of experience in the restaurant industry across Japan and Canada.",
+    "descriptionTitle": "Get to know me!",
+    "description": "I enjoy building responsive, user-friendly applications with technologies like JavaScript, React, jQuery, Express, Ruby on Rails, PostgreSQL, and SCSS. My experience in diverse, fast-paced environments helps me collaborate well and build with empathy. I'm especially drawn to projects that bridge cultures and improve everyday experiences. Outside of coding, I enjoy camping🏕️ relaxing at the beach🏖️, working out🏋️‍♂️, and baseball⚾️.",
+    "resume": "Download Resume",
+    "contact": "Contact",
+    "techTitle": "Skill Set",
+    "techSkills": {
+      "Languages": ["HTML", "CSS", "JavaScript", "Ruby", "SQL"],
+      "Frontend": [
+        "React",
+        "jQuery",
+        "TailwindCSS",
+        "Bootstrap",
+        "EJS",
+        "SASS"
+      ],
+      "Backend": ["Node.js", "Express", "Rails", "PostgreSQL"],
+      "Testing": ["Jest", "Cypress", "RSpec", "Mocha", "Chai", "Storybook"],
+      "Tools": ["Git", "GitHub", "Ajax"]
+    }
+  },
   "projects": {
     "title": "Projects",
     "description": "Here are some of the projects I've worked on."
-  },
-  "about": {
-    "title": "About Me",
-    "subtitle": "Hi, I'm Jumpei, a full-stack web developer with a background in international business and over 7 years of experience in the restaurant industry across Japan and Canada.",
-    "buttonTitle": "Download Resume",
-    "description": "I enjoy building responsive, user-friendly applications with technologies like JavaScript, React, jQuery, Express, Ruby on Rails, PostgreSQL, and SCSS. My experience in diverse, fast-paced environments helps me collaborate well and build with empathy. I'm especially drawn to projects that bridge cultures and improve everyday experiences. Outside of coding, I enjoy camping🏕️ relaxing at the beach🏖️, working out🏋️‍♂️, and baseball⚾️."
   },
   "contact": {
     "title": "Contact",
