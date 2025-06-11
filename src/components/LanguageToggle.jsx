@@ -11,9 +11,9 @@ function LanguageToggle() {
   return (
     <button
       onClick={toggleLanguage}
-      className="rounded-md bg-indigo-600 px-3.5 py-2.5 text-sm font-semibold text-white shadow-xs hover:bg-indigo-500 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600hover:text-blue-500"
+      className="text-sm font-medium px-3 py-2 bg-gray-100 rounded hover:bg-gray-200 transition"
     >
-      {i18n.language === "en" ? "日本語" : "English"}
+      {i18n.language === "en" ? "🇯🇵 日本語" : "🇺🇸 English"}
     </button>
   );
 }
