@@ -21,8 +21,8 @@
     "contact": "お問い合わせ",
     "techTitle": "スキルセット",
     "techSkills": {
-      "Languages": ["HTML", "CSS", "JavaScript", "Ruby", "SQL"],
-      "Frontend": [
+      "言語": ["HTML", "CSS", "JavaScript", "Ruby", "SQL"],
+      "フロントエンド": [
         "React",
         "jQuery",
         "TailwindCSS",
@@ -30,9 +30,9 @@
         "EJS",
         "SASS"
       ],
-      "Backend": ["Node.js", "Express", "Rails", "PostgreSQL"],
-      "Testing": ["Jest", "Cypress", "RSpec", "Mocha", "Chai", "Storybook"],
-      "Tools": ["Git", "GitHub", "Ajax"]
+      "バックエンド": ["Node.js", "Express", "Rails", "PostgreSQL"],
+      "テスト": ["Jest", "Cypress", "RSpec", "Mocha", "Chai", "Storybook"],
+      "ツール": ["Git", "GitHub", "Ajax"]
     }
   },
   "projects": {
