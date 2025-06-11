@@ -7,7 +7,7 @@ function Projects() {
   const lang = i18n.language;
 
   return (
-    <section className="py-20 bg-white px-6 md:px-12 text-center">
+    <section id="projects" className="py-20 bg-white px-6 md:px-12 text-center">
       <h1 className="text-5xl font-semibold tracking-tight text-balance text-gray-900 sm:text-5xl">
         {t("projects.title")}
       </h1>

@@ -20,13 +20,13 @@ function Header() {
             </a>
           </li>
           <li>
-            <a href="#projects" className="hover:text-blue-600 transition">
-              {t("nav.projects")}
+            <a href="#about" className="hover:text-blue-600 transition">
+              {t("nav.about")}
             </a>
           </li>
           <li>
-            <a href="#about" className="hover:text-blue-600 transition">
-              {t("nav.about")}
+            <a href="#projects" className="hover:text-blue-600 transition">
+              {t("nav.projects")}
             </a>
           </li>
           <li>
