@@ -44,6 +44,7 @@
     "description": "Let's connect! Feel free to reach out."
   },
   "footer": {
-    "text": "© 2025 Jumpei. All rights reserved."
+    "name": "Jumpei.",
+    "text": "All rights reserved."
   }
 }
