@@ -5,7 +5,7 @@ function Header() {
   const { t } = useTranslation();
 
   return (
-    <nav className="bg-white shadow-sm sticky top-0 z-50">
+    <nav className="bg-gray-100 border-gray-200 shadow-sm sticky top-0 z-50">
       <div className="max-w-6xl mx-auto px-6 py-4 flex justify-between items-center">
         {/* Logo */}
         <a href="#" aria-label="Homepage">
